@@ -1,2 +1,1 @@
-# todolist
-learning React by doing
+Learning React by doing
